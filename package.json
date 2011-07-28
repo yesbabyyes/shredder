@@ -1,0 +1,18 @@
+{
+  "author": "Linus G Thiel <linus@hanssonlarsson.se> (http://hanssonlarsson.se/)",
+  "name": "shredder",
+  "description": "Text indexing with redis",
+  "version": "0.1.0",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": ">= 0.4.0 < 0.5.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nodeunit": "*",
+    "docco": "*",
+    "coffee-script": ">= 1.1.1"
+  }
+}
